@@ -1,4 +1,5 @@
-<img width="707" height="1007" alt="docker_webapp_evidence" src="https://github.com/user-attachments/assets/1f8a7e2a-69c8-43e4-b877-c2a2acfd1137" />
+<img width="280" height="399" alt="docker_webapp_evidence" src="https://github.com/user-attachments/assets/1f8a7e2a-69c8-43e4-b877-c2a2acfd1137" />
+
 # Hotel Booking
 
 A multithreaded Spring web application for checking hotel room availability and making reservations. This is coursework for Advanced Java course, built by extending a starter application provided by the course.
@@ -7,10 +8,11 @@ A multithreaded Spring web application for checking hotel room availability and 
 
 The starter app was provided by the course. I extended it with:
 
-- **Multithreaded language translation:** 
-- **Time-zone message:** 
-- **Currency exchange:** 
+- **Multithreaded language translation:** Added French Translation
+- **Time-zone message:** Added Different Zone Options
+- **Currency exchange:**
 - **Containerization:** a Docker image of the full application
+- **Booking:** Added the ability to Book Available Rooms.
 
 ## Tech Stack
 
